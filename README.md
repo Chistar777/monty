@@ -109,7 +109,4 @@ All programs and functions were compiled with gcc 4.8.4 using flags -Wall -Werro
 All files have been written in the Betty Style.
 
 <h2>Authors</h2>
-
-Nsisong-Akpakpan Nsisong
-
-Martin4dbest Martin Agoha - martin4dtruth@gmail.com
+Chukwuma chidera Emmaunel -chiderastar777@gmail.com
